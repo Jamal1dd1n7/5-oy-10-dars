@@ -1,0 +1,15 @@
+Vazifalarni pythonda ishlang
+
+Dastur yozing. Dastur to’xtamasdan ishlab turadigan bo’lsin. autosalon.txt dagi 
+kodlardan foydalanib, tablitsalarni hosil qiling. autosalon db ni pycharm orqali pythonga ulang.
+barcha modellarni, brand nomi va rangi bilan chiroyli ko’rinishda chiqaring.
+xodimlar va buyurtmachilarning emaillarini birlashtirib chiqaring. (employees, customers)
+har bir davlatda nechtadan buyurtmachi borligini hisoblang (customers). Natijani tartiblangan xolatda chiqaring
+har bir davlatdan nechtadan xodim borligini hisoblang (employees). Natijani tartiblangan xolatda chiqaring
+har bir brandda nechtadan model borligini chiqaring. (brands, models).
+brandlardagi modellar 5 tadan ko’p bo’lganlarini chiqaring.
+orders tablitsasini customers, employees va models tablitsalari bilan birlashtirib chiqaring.
+models tablitsasidagi barcha avtomobillarning umumiy narxini chiqaring.
+jami brandlar sonini chiqaring.
+
+Bu amallarini bajarish uchun foydalanuvchidan input orqali buryurq qabul qiling.
